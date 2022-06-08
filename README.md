@@ -8,3 +8,5 @@ PR LINK: [PR LINK](https://github.com/RaghadAbdulhadi/drf-auth/pull/1)
 - Generally, transmit information through an ID Token.
 - Generate a Token
 - Add configrations to the project settings
+- docker-compose build
+- docker-compose up or docker-compose start
